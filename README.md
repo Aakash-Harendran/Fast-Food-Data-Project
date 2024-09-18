@@ -6,7 +6,11 @@ The rise of fast food has transformed eating habits by offering convenience and 
 
 ## ▶️ Demo
 Short clip of the project:
-https://github.com/user-attachments/assets/386fc6e5-fd64-46e5-8eda-a48458e935d8
+
+
+https://github.com/user-attachments/assets/f547f47f-98be-4d99-a8e7-a45773161e86
+
+
 
 ## 🏃‍♂️ How to Run
 
