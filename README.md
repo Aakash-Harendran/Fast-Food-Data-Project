@@ -46,7 +46,7 @@ The overall analysis process is split into:
 - References
 
 ## 📋 Results
-At the end of each "analyses" sections is a visualization that illustrates the relationship with a short summary explaning. Here's an example: 
+At the end of each "analyses" sections is a visualization that illustrates the relationship with a short summary: 
 ![Protein_img](https://github.com/user-attachments/assets/579c767e-b6b2-45a8-b083-98791aac19d2)
 
 ## 🧑‍🤝‍🧑 Contributors
